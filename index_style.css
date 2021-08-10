@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: grey;
+}
+
+.resume {
+    max-width: 800px;
+    height: 100%;
+    margin: 0 auto;
+    padding: 25px;
+    background: white;
+    opacity: 0.5;
+}
+
+#resume_title {
+    text-align: center;
+}
+
+.resume hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 0.9px;
+}
